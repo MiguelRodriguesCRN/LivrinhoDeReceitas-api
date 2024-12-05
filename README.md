@@ -1,7 +1,3 @@
-Claro! Aqui está a versão formatada da descrição do repositório, com uma estrutura mais organizada e visualmente clara:
-
----
-
 # API de Livro de Receitas 🍳
 
 ## Alunos do Projeto:
